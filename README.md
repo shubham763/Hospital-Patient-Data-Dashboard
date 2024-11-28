@@ -70,7 +70,7 @@ For questions or feedback, please contact:
 
 - Name: Shubham Sharma
 - Email: sharma.shubham763@gmail.com
-- GitHub: Shubham763
+- GitHub: shubham763
 
 ## Reference
 - BrainyBi youtube channel
