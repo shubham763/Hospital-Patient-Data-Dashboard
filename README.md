@@ -68,9 +68,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 For questions or feedback, please contact:
 
-Name: Shubham Sharma
-Email: sharma.shubham763@gmail.com
-GitHub: Shubham763
+- Name: Shubham Sharma
+- Email: sharma.shubham763@gmail.com
+- GitHub: Shubham763
 
 ## Reference
 - BrainyBi youtube channel
